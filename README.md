@@ -7,7 +7,9 @@ Data source: www.energia-nuclear.net
 
 # Flow Map
 
-Data source:
+Data source: Ukraine Support Tracker — 10th release (covering January 24, 2022 to February 24, 2023)											
+https://www.ifw-kiel.de/publications/data-sets/ukraine-support-tracker-data-17410/
+
 
 # Conver Hull
 
